@@ -1,0 +1,3 @@
+team22_client: team22_client.c
+	gcc team22_client.c -o team22_client
+
